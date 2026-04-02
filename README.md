@@ -2,6 +2,8 @@
 
 Imagine a dynamic sports and digital analytics arena where game performances and user interactions are captured in raw datasets. This repository transforms the `game_details` and `events` datasets into structured, analytical models using SQL, enabling insights into player performance and user activity trends.
 
+<img width="2752" height="1536" alt="image" src="https://github.com/user-attachments/assets/9dacdad4-b230-47f5-8ea7-1ae7f41b001c" />
+
 ## Project Overview
 
 This project processes two datasets: `game_details` and `game` for NBA basketball player statistics and `events`, `devices` for user device and host activity. Using PostgreSQL, we create fact and cumulative tables to deduplicate data, track activity over time, and generate monthly aggregated metrics for efficient analysis.
